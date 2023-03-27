@@ -3,5 +3,3 @@ def ifEven(x):
         return True
     else:
         return False
-    
-print (ifEven(8))
