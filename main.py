@@ -1,6 +1,6 @@
 def ifEven(n):
     if n % 2 ==0:
-        return "True"
+        return True
     else:
-        return "False"
+        return False
 
