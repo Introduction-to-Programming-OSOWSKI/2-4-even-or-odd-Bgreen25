@@ -4,4 +4,3 @@ def ifEven(n):
     else:
         return "False"
 
-print(ifEven(8))
